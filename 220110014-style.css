@@ -1,0 +1,244 @@
+body{
+    background-color: #132043;
+}
+
+.login{
+    background-color:#FDF0F0;
+    position: absolute;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.h1-login{
+    font-weight:bolder;
+    font-size: 7rem;
+    font-family:'Edu SA Beginner', cursive;
+    color:#132043;
+    margin: 0;
+    padding: 0;
+}
+
+.mb-3-login{
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-family: 'Crimson Text', serif;            
+    color:#1F4172 ;
+}
+
+.input-login{
+    margin:10px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.login-btn{
+    background-color:#1F4172;
+    border:#F1B4BB ;
+    padding: 30px;
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-family: 'Crimson Text', serif;
+}
+
+.login-button{
+    text-align: center;
+    margin: 100px;
+}
+
+.row-login{
+    margin-top: 50px;
+}
+
+.p-login{
+    font-size: 2rem;
+    font-family:'Edu SA Beginner', cursive;
+}
+
+
+.container{
+    width: 1000px;
+}
+
+.leftcolumn {   
+    float: left;
+    width: 800px;
+    padding-left: 20px;
+}
+
+.rightcolumn{
+    float: left;
+    width: 200px;
+    padding: 20px;
+    padding-right: 0;
+    background-color: #1F4172;
+    margin-top: 20px;
+    color:#FDF0F0;
+}
+
+h1{
+    padding-top: 50px;
+    font-size: 50px;
+    color:#FDF0F0;
+    font-family:'Edu SA Beginner', cursive;
+}
+
+.profile{
+    color: #F1B4BB;
+    padding-bottom: 10px;
+    font-family: 'Crimson Text', serif;
+}
+
+.connectify{
+    font-size: 40px;
+}
+
+.navbar{
+    width: 1000px;
+    border-radius: 10px;
+    padding: 0;
+    opacity:0.7;
+}
+
+h6{
+    color:#1F4172;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    font-size: 20px;
+    font-weight: 300;
+    padding-left:5px;
+}
+
+.card{
+    padding: 20px;
+    margin: 20px;
+    background-color: #FDF0F0;
+}
+
+img{
+    padding: 10px;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Crimson Text', serif;
+}
+
+.right{
+    font-size: 30px;
+    color:white
+}
+
+h5{
+    font-size: 15px;
+}
+
+p{
+    font-size: 20px;
+    font-weight:500;
+}
+
+.blue{
+    color:blue
+}
+
+.hashtags{
+    font-weight: 100;
+    margin: 2px;
+}
+
+
+
+
+.container-profile{
+    width: 1000px;
+}
+
+
+.h2-profile{
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Crimson Text', serif;
+
+}
+
+.h5-profile{
+    font-size: 30px;
+    font-weight:500;
+    font-family: 'Crimson Text', serif;
+
+}
+
+.h1-profile{
+    padding-top: 45px;
+    font-size: 40px;
+    color:#FDF0F0;
+    font-family:'Edu SA Beginner', cursive;
+}
+
+.profile{
+    color: #F1B4BB;
+    padding-bottom: 10px;
+}
+
+.one-profile{
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.navbar-profile{
+    width: 1000px;
+    border-radius: 10px;
+    padding: 0;
+    opacity:0.7;
+}
+
+.two-profile{
+  padding-top: 100px;
+}
+
+.content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 100px;
+  background-color:#FDF0F0;
+  border-radius: 50%;
+}
+
+h3{
+  color:#1F4172;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+.three{
+  padding-top: 100px;
+}
+
+.caption{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 100px;
+  font-family: 'Crimson Text', serif;
+
+}
+
+.p-profile{
+  color:#F1B4BB;
+  font-size: 30px;
+}
+
+h6{
+    color:#356bb7;
+}
